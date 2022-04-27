@@ -7,6 +7,10 @@ h1 {
   text-align: center;
 }
 
+a {
+  text-decoration: underline;
+}
+
 .mask {
   position: absolute;
   left: 0%;
@@ -121,7 +125,7 @@ h1 {
   }
 
   .slide-2 {
-    background-image: url('../images/598-1284x2778.jpg');
+    background-image: url('../images/mobilemeep.jpg');
     background-position: 50% 50%;
     background-size: cover;
   }
