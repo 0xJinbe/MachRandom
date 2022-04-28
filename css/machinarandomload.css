@@ -50,13 +50,13 @@ a {
 .link-block {
   margin-top: 20px;
   margin-right: 0px;
-  margin-left: 20px;
+  margin-left: 15px;
 }
 
 .div-block {
   position: absolute;
   left: 8%;
-  top: 2%;
+  top: 0%;
   right: auto;
   bottom: 0%;
   z-index: 30;
